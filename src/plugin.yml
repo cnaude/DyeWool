@@ -1,0 +1,11 @@
+name: DyeWool
+main: nl.robinvandervliet.DyeWool.DyeWool
+version: 1.6
+website: http://dev.bukkit.org/server-mods/dyewool/
+description: Color wool with right click!
+authors:
+  - robin0van0der0v, cnaude
+permissions:
+  dyewool.dyewool:
+    description: Allow a player to dye a wool block.
+    default: false
